@@ -1,4 +1,4 @@
-package `2장`
+package basic
 
 class KotlinSyntax {
     fun max(a: Int, b: Int) = if (a > b) a else b
